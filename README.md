@@ -38,3 +38,5 @@ The dataset contains images of skin lesions, categorized into the following 9 cl
 2. Follow the sequential steps in the notebook.
 3. Ensure that the dataset paths are correctly set.
 
+## GitHub Repository Link
+https://github.com/Amoolya-Boora/Skin_Cancer_Classification.git
